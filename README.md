@@ -1,4 +1,4 @@
-# Go-Utils
+# Golang-Utils
 
 Date Utils <br>
 String Utils <br>
